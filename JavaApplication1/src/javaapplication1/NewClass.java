@@ -9,5 +9,7 @@ package javaapplication1;
  * @author Chris
  */
 public class NewClass {
-    String a3432423;
+
+    String a222;
+
 }
