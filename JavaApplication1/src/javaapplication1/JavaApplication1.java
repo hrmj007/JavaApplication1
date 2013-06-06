@@ -15,6 +15,10 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         String s1;
+=======
+        String s_2131231;
+>>>>>>> ran2
     }
 }
