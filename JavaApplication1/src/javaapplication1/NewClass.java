@@ -9,5 +9,5 @@ package javaapplication1;
  * @author Chris
  */
 public class NewClass {
-    String a_2;
+    String a2;
 }
